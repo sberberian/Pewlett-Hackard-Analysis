@@ -9,15 +9,15 @@ As an employee for Pewlett Hackard, I am tasked with reviewing employee data to 
 
 * The image below shows that senior roles are understandably the closest to their retirement. 
 
-![retiring_titles](C:\Users\saman\Class\Pewlett-Hackard-Analysis\retiring_titles.png)
+![retiring_titles](retiring_titles.png)
 
 * The following query results confirm that there will be many staff and engineering positions that need to be filled. 
 
-![unique_titles](C:\Users\saman\Class\Pewlett-Hackard-Analysis\unique_titles.png)
+![unique_titles](unique_titles.png)
 
 * Fortunately, it appears that there are a great amount of employees within these positions who are eligible to mentor their successors.  
 
-![deliverable_two](C:\Users\saman\Class\Pewlett-Hackard-Analysis\deliverable_two.png)
+![deliverable_two](deliverable_two.png)
 
 * There is an appropriate ratio for the positions that will soon need to be filled and people available for the preparations.  
 
