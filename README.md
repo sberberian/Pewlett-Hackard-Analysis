@@ -2,7 +2,7 @@
 
 ## Overview
 
-As an employee for Pewlett Hackard, I am tasked with reviewing employee data to establish how many employees are retiring according to each job title and establish who qualifies to be involved in mentorship. These reports will help the company to effectively prepare for all of the upcoming retirements. 
+As an employee for Pewlett Hackard, I am tasked with reviewing employee data to identify how many employees are retiring according to each job title and establish who qualifies to be involved in mentorship. These reports will help the company to effectively prepare for all of the upcoming retirements. 
 
 
 ## Results
