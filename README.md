@@ -31,4 +31,4 @@ Engineering and staff positions should be prioritized seeing that 25,916 senior 
 The mentorship eligibility analysis indicates that there are enough senior workers to guide their juniors. 
 
 ### Additional Analyses
-It would be beneficial to analyze the salaries of the retiring employees along with the future salaries of their trainees for financial insight. Further research can also be done to investigate the gender split of the retiring employees to ensure that Pewlett-Hackard will be maintaining it's diversity as the next generation of employees are ushered in.
+It would be beneficial to analyze the salaries of the retiring employees along with the future salaries of their trainees for financial insight. Further research can also be done to investigate the gender split of the retiring employees to ensure that Pewlett-Hackard will be maintaining its diversity as the next generation of employees are ushered in.
